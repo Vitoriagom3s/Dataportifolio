@@ -17,7 +17,7 @@ Para usar este projeto, você precisa ter o Rust instalado em sua máquina. Voc�
 
 ## Aqui está um exemplo de como usar o módulo de regressão linear:
 
-use seu_modulo::LinearRegression;
+use seu_modulo:LinearRegression;
 
 fn main() {
     let x = vec![1.0, 2.0, 3.0];
