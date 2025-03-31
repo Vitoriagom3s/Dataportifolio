@@ -1,4 +1,5 @@
-# # Portfólio em Rust: Implementação de Regressão Linear Pura para Séries Temporais
+ #  Implementação de Regressão Linear Pura para Séries Temporais
+![image](https://github.com/user-attachments/assets/547b32ed-b3e3-463b-8308-dad9dd3ea855)
 
 ## Descrição
 Este projeto implementa um módulo de regressão linear pura em Rust, que pode ser utilizado para análise de séries temporais. O módulo inclui funções para ajustar um modelo de regressão linear, realizar previsões e calcular métricas de avaliação como R² e erro quadrático médio (MSE).
